@@ -121,3 +121,8 @@ Take into account the dot at the end of the line, `git clone git@github.com:repo
 ## PhpMyAdmin
 
 [How to install and secure phpmyadmin on ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
+
+
+## Redis
+
+https://askubuntu.com/questions/868848/how-to-install-redis-on-ubuntu-16-04
